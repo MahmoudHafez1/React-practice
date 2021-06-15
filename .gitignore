@@ -4,6 +4,7 @@
 
 # dependencies
 /node_modules
+/tasks/custom-hook-with-forms/node_modules
 /.pnp
 .pnp.js
 
